@@ -29,7 +29,7 @@ To run this application on your local machine, you will need:
    ```bash
    git clone [https://github.com/Thepenguin07/CodeAlpha_Hotel_Reservation_System.git](https://github.com/Thepenguin07/CodeAlpha_Hotel_Reservation_System.git)
    cd CodeAlpha_Hotel_Reservation_System
-```
+
 Compile the Java File:
 Open your terminal and compile the main class:
 Bash
