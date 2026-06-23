@@ -28,20 +28,28 @@ To run this application on your local machine, you will need:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/CodeAlpha_HotelReservationSystem.git](https://github.com/your-username/CodeAlpha_HotelReservationSystem.git)
+   git clone [https://github.com/Thepenguin07/CodeAlpha_Hotel_Reservation_System/tree/main)
    cd CodeAlpha_HotelReservationSystem
 Compile the Java File:
+
 Open your terminal and compile the main class:
+
 Bash
 javac HotelReservationSystem.java
+
 Run the Application:
+
 Execute the compiled class:
+
 Bash
+
 java HotelReservationSystem
 (Note: Upon running the application for the first time, it will automatically generate a hotel_data.dat file in the same directory to store your data.)
+
 📁 Project Structure
 HotelReservationSystem.java - The main source code containing all classes (Room, Reservation, and HotelReservationSystem).
 hotel_data.dat - The serialized data file (auto-generated) that stores active bookings and room statuses.
+
 👤 Author
 Shifa Parveen
 Role: Java Programming Intern @ CodeAlpha
