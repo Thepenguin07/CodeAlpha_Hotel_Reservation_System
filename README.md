@@ -45,12 +45,3 @@ hotel_data.dat - The serialized data file (auto-generated) that stores active bo
 👤 Author
 Shifa Parveen
 Role: Java Programming Intern @ CodeAlpha
-
-***
-
-### **Changes Made:**
-* Fixed the `git clone` link to the proper `.git` extension.
-* Restored the markdown backticks (`` ` ``) for the terminal commands so they format as code blocks on GitHub.
-* Restored the bullet points and bolding for readability. 
-
-Would you like any suggestions on what tags or topics to add to your GitHub repository settings to make this project more discoverable to recruiters?
